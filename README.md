@@ -1,3 +1,7 @@
+## [globo bootstrap](http://globocom.github.com/bootstrap) Server
+
+The globo.com bootstrap server is a twitter fork to manage custom download page for the interface components
+
 ## [Twitter Bootstrap](http://twitter.github.com/bootstrap) Server
 
 The twitter bootstrap server is responsible for backing the custom builds from bootstrap's download page. 
